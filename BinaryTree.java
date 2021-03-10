@@ -22,6 +22,7 @@ public class BinaryTree {
 	    System.out.println();
 	    System.out.println("Printing tree level order");
 	    levelOrder(root);
+	    System.out.println("Hi");
 	}
 
 	private Node helper(int[] arr, int low, int high) {
