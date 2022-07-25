@@ -17,7 +17,7 @@ public class BinaryTree {
 		System.out.println("Printing tree preOrder");
 		preOrder(root); 
 		System.out.println();
-		System.out.println("Printing tree vertically"); 
+		//System.out.println("Printing tree vertically"); 
 		util(root);
 	    System.out.println();
 	    System.out.println("Printing tree level order");
